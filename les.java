@@ -1,14 +1,11 @@
 package com.example.springboot.entity;
 
-
-
-
+//kkkkkkkkkkkkk
 
 import com.baomidou.mybatisplus.annotation.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-
 
 @TableName("les")
 
@@ -23,7 +20,5 @@ public class les {
     private Integer lesmark;
     // 创建时间
     private String lesintroduction;
-
-
 
 }
